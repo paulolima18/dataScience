@@ -2,15 +2,14 @@
 
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/froala/design-blocks/blob/master/LICENSE)
 
-* Read this in other languages: [English](README.md), [Portuguese](README.pt.md)
+* Ler o documento num linguagem diferente: [Inglês](README.md), [Português](README.pt.md)
 
 <div align="center">
 	<h1><strong>Data Science</strong></h1>
 </div>
 
-In this repository, several Machine Learning algorithms are available together with their applications in real cases in the field of Data Science.
+Neste repositório estão disponíveis vários algoritmos de Machine Learning em conjunto com as suas aplicações em casos reais na área de Data Science.
 
-## Regression
+## Regressão
 
-  * [Linear Regression](/LinearRegression)
-
+  * [Regressão Linear](/LinearRegression)

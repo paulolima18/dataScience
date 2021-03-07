@@ -10,7 +10,8 @@
 
 In this repository, several Machine Learning algorithms are available together with their applications in real cases in the field of Data Science.
 
-## Regression
+## Regression Models
 
   * [Linear Regression](/LinearRegression)
+  * [Logistic Regression](/LogisticRegression)
 

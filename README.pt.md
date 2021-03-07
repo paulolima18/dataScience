@@ -10,6 +10,7 @@
 
 Neste repositório estão disponíveis vários algoritmos de Machine Learning em conjunto com as suas aplicações em casos reais na área de Data Science.
 
-## Regressão
+## Modelos de Regressão
 
   * [Regressão Linear](/LinearRegression)
+  * [Regressão Logistica](/LogisticRegression)

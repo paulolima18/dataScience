@@ -15,3 +15,6 @@ In this repository, several Machine Learning algorithms are available together w
   * [Linear Regression](/LinearRegression)
   * [Logistic Regression](/LogisticRegression)
 
+## Clustering Models
+
+  * [K-Means](/K-Means)

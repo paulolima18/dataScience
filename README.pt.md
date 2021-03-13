@@ -14,7 +14,5 @@ Neste repositório estão disponíveis vários algoritmos de Machine Learning em
 
   * [Regressão Linear](/LinearRegression)
   * [Regressão Logistica](/LogisticRegression)
-
-## Modelos de Clustering
-
   * [K-Means](/K-Means)
+  * [SVM](/SVM)

@@ -16,3 +16,4 @@ In this repository, several Machine Learning algorithms are available together w
   * [Logistic Regression](/LogisticRegression)
   * [K-Means](/K-Means)
   * [SVM](/SVM)
+  * [Item Based Collaborative Filtering](/ItemBasedCF)

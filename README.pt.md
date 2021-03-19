@@ -17,3 +17,4 @@ Neste repositório estão disponíveis vários algoritmos de Machine Learning em
   * [K-Means](/K-Means)
   * [SVM](/SVM)
   * [Item Based Collaborative Filtering](/ItemBasedCF)
+  * [Naive Bayes](/NaiveBayes)

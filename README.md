@@ -18,3 +18,4 @@ In this repository, several Machine Learning algorithms are available together w
   * [SVM](/SVM)
   * [Item Based Collaborative Filtering](/ItemBasedCF)
   * [Naive Bayes](/NaiveBayes)
+  * [K Nearest Neighbor](/KNN)

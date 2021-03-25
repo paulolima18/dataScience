@@ -11,6 +11,7 @@ Esta seção se concentrará em uma explicação intuitiva de como os classifica
 ## Datasets testados
 - [GaussianNB](/NaiveBayes/gaussian_nb.ipynb)
 - [MultinomialNB](/NaiveBayes/multinomial_nb.ipynb)
+- [Emails Spam](/NaiveBayes/emails.ipynb)
 
 ## Classificação Bayesiana
 

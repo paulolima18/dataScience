@@ -11,6 +11,7 @@ This section will focus on an intuitive explanation of how naive Bayes classifie
 ## Tested Datasets
 - [GaussianNB](/NaiveBayes/gaussian_nb.ipynb)
 - [MultinomialNB](/NaiveBayes/multinomial_nb.ipynb)
+- [Emails Spam](/NaiveBayes/emails.ipynb)
 
 ## Bayesian Classification
 

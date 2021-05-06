@@ -19,3 +19,6 @@ Neste repositório estão disponíveis vários algoritmos de Machine Learning em
   * [Item Based Collaborative Filtering](/ItemBasedCF)
   * [Naive Bayes](/NaiveBayes)
   * [K Nearest Neighbor](/KNN)
+
+## Websites Interessantes
+  * [Lista de Websites](DB.md)
